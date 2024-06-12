@@ -1,5 +1,3 @@
 /data/mapdata/*
-!data/mapdata/mapdata.csv
-!data/mapdata/kmeans_results.csv
-!data/mapdata/kmeans_results_spacial.csv
+
 
